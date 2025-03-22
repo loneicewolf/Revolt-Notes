@@ -1,5 +1,7 @@
 # Re-Volt Basic Formatting 
-Note: Revolt uses latex so!
+Note: Revolt uses ~~latex~~ *K*atex (?) so!
+- https://katex.org/docs/supported.html
+
 
 # Colors
 ```
